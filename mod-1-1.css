@@ -1,0 +1,80 @@
+.background {
+    z-index: -1;
+    width: 98%;
+    height: 95%;
+    position: fixed;
+    margin-top: -60px;
+    margin-left: -10px;
+    margin-right: -100px;
+    border: 20px solid rgb(0, 0, 0); 
+    border-style:double;
+}
+
+.picture {
+    margin-left: 200px;
+    margin-top: 60px;
+    max-width: 200px;
+    max-height: 200px;
+    border: 8px solid rgb(0, 0, 0); 
+    border-style:double;
+}
+
+.name {
+    margin-left: 160px;
+    margin-top:10px;
+    text-align:center;
+    max-width: 300px;
+    max-height: 265px;
+    font-size: 30px;
+    font-weight:900 ;
+}
+
+.title {
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    margin-left: 165px;
+    margin-top: -15px;
+}
+
+.socials {
+    margin-left: 275px;
+    margin-top: -10px;
+}
+
+
+a {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+  
+a:hover {
+    color: rgb(56, 59, 48);
+}
+
+.quote {
+    margin-top: -340px;
+    margin-right: 60px;
+    margin-left: 600px;
+    justify-content: right;
+    color:rgb(88, 87, 100);
+    display: flex;
+    font-size: 2.5em;
+    font-style: italic;
+    text-shadow: -1px 1px 2px rgb(209, 179, 8),
+                  1px 1px 0 rgb(0, 0, 0),
+}
+
+.quote1 {
+   margin-right: 100px;
+    justify-content: right;
+    align-items: normal;
+    color:rgb(88, 87, 100);
+    display: flex;
+    font-size: 2.5em;
+    text-shadow: -1px 1px 2px rgb(209, 179, 8),
+                  1px 1px 0 #000,               
+}
+
+
+
+
