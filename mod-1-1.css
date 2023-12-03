@@ -19,10 +19,7 @@
     margin-left: -10px;
     margin-right: -100px;
     border: 20px solid rgb(0, 0, 0); 
-    border-style:double;
-    
-    
-    
+    border-style:double;  
 }
 
 .p1-picture {
@@ -39,10 +36,7 @@
     margin-top: 30px;
     max-width: 400px;
     max-height: 600px;
-    
-    
 }
-
 
 .name {
     margin-left: 160px;
